@@ -63,7 +63,7 @@ SpringAI/
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    SPRING AI - MISTRAL AI                    │
+│                    SPRING AI - MISTRAL AI                   │
 ├─────────────────────────────────────────────────────────────┤
 │  1. GET /api/ai/ask?ask={pregunta}                          │
 │     ↓ El usuario envía una pregunta por HTTP                │
