@@ -4,14 +4,13 @@
 
 ## Tabla de Contenidos
 
-- [Descripción](#-descripción-del-proyecto)
-- [Tecnologías](#-tecnologías-usadas)
-- [Estructura](#-estructura-principal)
-- [Flujo Funcional](#-flujo-funcional-implementado)
-- [Endpoints](#-endpoints)
-- [Configuración](#-configuración)
-- [Estado](#-estado-frente-a-la-consigna)
-- [Ejecución](#-cómo-ejecutar)
+- [Descripción](#descripción-del-proyecto)
+- [Tecnologías](#tecnologías-usadas)
+- [Estructura](#estructura-principal)
+- [Flujo Funcional](#flujo-funcional-implementado)
+- [Endpoints](#endpoints)
+- [Configuración](#configuración)
+- [Ejecución](#cómo-ejecutar)
 
 ---
 
